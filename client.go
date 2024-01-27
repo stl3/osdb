@@ -16,7 +16,7 @@ import (
 
 const (
 	// DefaultOSDBServer is OSDB's API base URL.
-	DefaultOSDBServer = "https://api.opensubtitles.org:443/xml-rpc"
+	DefaultOSDBServer = "https://api.opensubtitles.com:443/xml-rpc"
 
 	// DefaultUserAgent is the current version of this lib.
 	DefaultUserAgent = "osdb-go 0.2"
